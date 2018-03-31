@@ -1,0 +1,33 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Order summary -->
+    <string name="thank_you">Thank you!</string>
+
+    <!-- Order summary name shown in the format of "Name: Amy" where Amy is the users name. [CHAR LIMIT=NONE}-->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <!-- Order summary quantity displayed. -->
+    <string name="quantity">Quantity: </string>
+
+    <!--Order summary total price displayed. -->
+    <string name="total">Total: $</string>
+
+    <!--Order summary if user wants chocolate topping. -->
+    <string name="add_chocolate">Add Chocolate? </string>
+
+    <!--Order summary if user wants whipped cream. -->
+    <string name="add_whipped_cream">Add Whipped Cream? </string>
+
+    <!--Order button. -->
+    <string name="order">Order</string>
+
+    <!--Subject line of email -->
+    <string name="just_java_order_for">Just Java Order For </string>
+
+</resources>

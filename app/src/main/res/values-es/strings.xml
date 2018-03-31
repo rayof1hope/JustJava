@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="order_summary_name">"Nombre: "</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="toppings">Ingredientes</string>
+
+    <!-- Order summary quantity displayed. -->
+    <string name="quantity">"Cantitad: "</string>
+
+    <!--Order summary total price displayed. -->
+    <string name="total">Total: $</string>
+
+    <!--Order summary if user wants chocolate topping. -->
+    <string name="add_chocolate">Agregar Chocolate?</string>
+
+    <!--Order summary if user wants whipped cream. -->
+    <string name="add_whipped_cream">Agregar Crema Batida?</string>
+
+    <!--Order button. -->
+    <string name="order">Orden</string>
+
+    <!--Subject line of email -->
+    <string name="just_java_order_for">Solo Java Orden Para</string>
+
+</resources>

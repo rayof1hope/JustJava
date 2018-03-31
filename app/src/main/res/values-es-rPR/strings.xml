@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="order_summary_name">"Nombre: "</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="total">Total: $</string>
+    <string name="quantity">Cantitad:</string>
+    <string name="add_chocolate">Agregar Chocolate?</string>
+    <string name="add_whipped_cream">Agregar Crema Batida?</string>
+    <string name="order">Orden</string>
+    <string name="just_java_order_for">Solo Java Orden Para</string>
+</resources>
